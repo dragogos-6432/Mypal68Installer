@@ -1,0 +1,1 @@
+wscript.echo("Mypal has been installed successfully." & vbCrLf & "On Windows Vista and newer shortcuts cannot be created automatically.")
